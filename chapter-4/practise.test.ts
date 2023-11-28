@@ -1,4 +1,4 @@
-import { Apple, Fruit } from "./solution";
+import { Apple, Fruit } from "./practise";
 
 describe("fruit class", () => {
   it("should instantiate with just a name", () => {
